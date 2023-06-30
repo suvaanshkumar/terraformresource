@@ -1,6 +1,7 @@
 resource "kubernetes_secret" "example" {
   metadata {
     name = "basic-auth"
+    namespace = "flux-system"
   }
 
   data = {
