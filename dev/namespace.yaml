@@ -3,5 +3,5 @@ kind: Namespace
 metadata:
   name: kanatatestfluxres
   labels:
-    gwcp.guidewire.com/app-name: abc
+    gwcp.guidewire.com/app-name: abcd
   
