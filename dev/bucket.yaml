@@ -2,7 +2,7 @@ apiVersion: s3.aws.upbound.io/v1beta1
 kind: Bucket
 metadata:
   name: goodname
-  namespace:ccsdemo
+  namespace: ccsdemo
 spec:
   forProvider:
     region: us-east-2
