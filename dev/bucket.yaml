@@ -4,8 +4,6 @@ metadata:
   name: goodname
   namespace: ccsdemo
 spec:
-  wait: 10s
-  timeout: 2m
   forProvider:
     region: us-east-2
   providerConfigRef:
