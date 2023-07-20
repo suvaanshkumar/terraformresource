@@ -1,7 +1,7 @@
 apiVersion: s3.aws.upbound.io/v1beta1
 kind: Bucket
 metadata:
-  name: ccsdemo3
+  name: ccsdemo1
   namespace: ccsdemo
 spec:
   forProvider:
